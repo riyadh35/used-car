@@ -1,0 +1,63 @@
+.nav-link {
+    margin: 7px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 24px;
+    letter-spacing: -0.1px;
+    color: #0D0A19;
+}
+
+.sign-up {
+
+    color: #9A9EA7;
+}
+
+.sign-img {
+    align-items: center;
+    padding: 7px;
+    margin-right: 5px;
+    color: #F5F6F7;
+    background-color: rgba(245, 246, 247, 1);
+    border-radius: 30%;
+}
+
+
+
+.section1 {
+    background-image: url(images/Landing/Rectangle.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    min-height: 90.8vh;
+    overflow: hidden;
+}
+
+
+
+
+
+
+.section1h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 74px;
+    text-align: center;
+    letter-spacing: -0.304762px;
+    color: #FFFFFF;
+    padding-top: 249px;
+}
+
+.section1p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 10px;
+}
